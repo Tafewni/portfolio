@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<title>ผลงานของฉัน</title>
+</head>
+<body>
+<h1>สวัสดีครับ ฉันคือ [นาย ธนกร กุมารจันทร์]</h1>
+<p>นักศึหษาแผนกเทคโนโลยีสารสนเทศ</p>
+
+<h2>ผลงานของฉัน</h2>
+<ul>
+<li><a href="#">โปรเจกที่ 1</a><li>
+<li><a href="#">โปรเจกที่ 2</a><li>
+</ul>
+
+<footer> ติดต่อ0981512475 : email:xenoe123@email.com </footer>
+</body>
+</html>
